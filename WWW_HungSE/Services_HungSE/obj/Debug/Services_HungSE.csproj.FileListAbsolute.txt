@@ -1,0 +1,21 @@
+D:\LẬP TRÌNH WWW\WWW_HungSE\Services_HungSE\bin\Debug\Services_HungSE.dll.config
+D:\LẬP TRÌNH WWW\WWW_HungSE\Services_HungSE\bin\Debug\Services_HungSE.dll
+D:\LẬP TRÌNH WWW\WWW_HungSE\Services_HungSE\bin\Debug\Services_HungSE.pdb
+D:\LẬP TRÌNH WWW\WWW_HungSE\Services_HungSE\bin\Debug\EntityFramework.dll
+D:\LẬP TRÌNH WWW\WWW_HungSE\Services_HungSE\bin\Debug\EntityFramework.SqlServer.dll
+D:\LẬP TRÌNH WWW\WWW_HungSE\Services_HungSE\bin\Debug\EntityFramework.xml
+D:\LẬP TRÌNH WWW\WWW_HungSE\Services_HungSE\bin\Debug\EntityFramework.SqlServer.xml
+D:\LẬP TRÌNH WWW\WWW_HungSE\Services_HungSE\obj\Debug\Services_HungSE.csproj.CoreCompileInputs.cache
+D:\LẬP TRÌNH WWW\WWW_HungSE\Services_HungSE\obj\Debug\Services_HungSE.csproj.CopyComplete
+D:\LẬP TRÌNH WWW\WWW_HungSE\Services_HungSE\obj\Debug\Services_HungSE.dll
+D:\LẬP TRÌNH WWW\WWW_HungSE\Services_HungSE\obj\Debug\Services_HungSE.pdb
+D:\LẬP TRÌNH WWW\WWW_HungSE\Services_HungSE\obj\Debug\Services_HungSE.csprojAssemblyReference.cache
+D:\LẬP TRÌNH WWW\WWW_HungSE\Services_HungSE\bin\Debug\EntityFrameWork_HungSE.dll
+D:\LẬP TRÌNH WWW\WWW_HungSE\Services_HungSE\bin\Debug\Repository_HungSE.dll
+D:\LẬP TRÌNH WWW\WWW_HungSE\Services_HungSE\bin\Debug\Services Interface_HungSE.dll
+D:\LẬP TRÌNH WWW\WWW_HungSE\Services_HungSE\bin\Debug\EntityFrameWork_HungSE.pdb
+D:\LẬP TRÌNH WWW\WWW_HungSE\Services_HungSE\bin\Debug\EntityFrameWork_HungSE.dll.config
+D:\LẬP TRÌNH WWW\WWW_HungSE\Services_HungSE\bin\Debug\Repository_HungSE.pdb
+D:\LẬP TRÌNH WWW\WWW_HungSE\Services_HungSE\bin\Debug\Repository_HungSE.dll.config
+D:\LẬP TRÌNH WWW\WWW_HungSE\Services_HungSE\bin\Debug\Services Interface_HungSE.pdb
+D:\LẬP TRÌNH WWW\WWW_HungSE\Services_HungSE\bin\Debug\Services Interface_HungSE.dll.config
